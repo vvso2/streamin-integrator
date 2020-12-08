@@ -1,0 +1,14 @@
+[08-12-2020 23:12:21] DEBUG - Updates config file does not exist. Creating config.json
+[08-12-2020 23:12:21] DEBUG - Updates Home Directory: C:\Users\romas\.wso2-updates
+[08-12-2020 23:12:21] DEBUG - Product name: wso2si
+[08-12-2020 23:12:21] DEBUG - Product version: 1.1.0
+[08-12-2020 23:12:21] DEBUG - Updates configurations written to C:\Users\romas\Desktop\tasks\IoT_platforms\WSO2\fish_task1\wso2ei-7.1.0\streaming-integrator\updates\config.json
+[08-12-2020 23:12:21] DEBUG - wso2update version: 1.1.4
+[08-12-2020 23:12:21] DEBUG - Executed wso2update on Tue, 08 Dec 2020 23:12:21 MSK
+
+[08-12-2020 23:12:21] DEBUG - Product Directory : C:\Users\romas\Desktop\tasks\IoT_platforms\WSO2\fish_task1\wso2ei-7.1.0\streaming-integrator
+[08-12-2020 23:12:21] DEBUG - Product Updates Directory : C:\Users\romas\Desktop\tasks\IoT_platforms\WSO2\fish_task1\wso2ei-7.1.0\streaming-integrator\updates
+[08-12-2020 23:12:21] DEBUG - Updates home directory has been set manually
+[08-12-2020 23:12:21] DEBUG - Updates home directory: C:\Users\romas\.wso2-updates
+[08-12-2020 23:12:21] DEBUG - Updates configurations written to C:\Users\romas\Desktop\tasks\IoT_platforms\WSO2\fish_task1\wso2ei-7.1.0\streaming-integrator\updates\config.json
+[08-12-2020 23:12:21] INFO - Initializing updates with credentials
