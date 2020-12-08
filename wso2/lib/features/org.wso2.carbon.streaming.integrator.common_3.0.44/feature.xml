@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.streaming.integrator.common" label="WSO2 Streaming Integrator - Common Feature" provider-name="%providerName" version="3.0.44">
+  <description>This feature contains the bundles related to Streaming Integrator Common</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="siddhi-query-compiler" unpack="false" version="5.1.15"/>
+  <plugin id="siddhi-query-api" unpack="false" version="5.1.15"/>
+  <plugin id="org.wso2.carbon.streaming.integrator.common" unpack="false" version="3.0.44"/>
+  <plugin id="siddhi-annotations" unpack="false" version="5.1.15"/>
+  <plugin id="siddhi-core" unpack="false" version="5.1.15"/>
+  <require/>
+</feature>
